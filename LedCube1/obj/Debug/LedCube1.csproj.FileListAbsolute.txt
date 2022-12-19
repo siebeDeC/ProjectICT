@@ -1,0 +1,15 @@
+C:\Users\decor\OneDrive\Documenten\school\1ste\trim1\ICT\projecten\project LedCube\LedCube1\bin\Debug\LedCube1.exe.config
+C:\Users\decor\OneDrive\Documenten\school\1ste\trim1\ICT\projecten\project LedCube\LedCube1\bin\Debug\LedCube1.exe
+C:\Users\decor\OneDrive\Documenten\school\1ste\trim1\ICT\projecten\project LedCube\LedCube1\bin\Debug\LedCube1.pdb
+C:\Users\decor\OneDrive\Documenten\school\1ste\trim1\ICT\projecten\project LedCube\LedCube1\obj\Debug\LedCube1.csproj.AssemblyReference.cache
+C:\Users\decor\OneDrive\Documenten\school\1ste\trim1\ICT\projecten\project LedCube\LedCube1\obj\Debug\MainWindow.g.cs
+C:\Users\decor\OneDrive\Documenten\school\1ste\trim1\ICT\projecten\project LedCube\LedCube1\obj\Debug\App.g.cs
+C:\Users\decor\OneDrive\Documenten\school\1ste\trim1\ICT\projecten\project LedCube\LedCube1\obj\Debug\LedCube1_MarkupCompile.cache
+C:\Users\decor\OneDrive\Documenten\school\1ste\trim1\ICT\projecten\project LedCube\LedCube1\obj\Debug\LedCube1_MarkupCompile.lref
+C:\Users\decor\OneDrive\Documenten\school\1ste\trim1\ICT\projecten\project LedCube\LedCube1\obj\Debug\MainWindow.baml
+C:\Users\decor\OneDrive\Documenten\school\1ste\trim1\ICT\projecten\project LedCube\LedCube1\obj\Debug\LedCube1.g.resources
+C:\Users\decor\OneDrive\Documenten\school\1ste\trim1\ICT\projecten\project LedCube\LedCube1\obj\Debug\LedCube1.Properties.Resources.resources
+C:\Users\decor\OneDrive\Documenten\school\1ste\trim1\ICT\projecten\project LedCube\LedCube1\obj\Debug\LedCube1.csproj.GenerateResource.cache
+C:\Users\decor\OneDrive\Documenten\school\1ste\trim1\ICT\projecten\project LedCube\LedCube1\obj\Debug\LedCube1.csproj.CoreCompileInputs.cache
+C:\Users\decor\OneDrive\Documenten\school\1ste\trim1\ICT\projecten\project LedCube\LedCube1\obj\Debug\LedCube1.exe
+C:\Users\decor\OneDrive\Documenten\school\1ste\trim1\ICT\projecten\project LedCube\LedCube1\obj\Debug\LedCube1.pdb
